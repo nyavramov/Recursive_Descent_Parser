@@ -1,0 +1,16 @@
+The string "a" is in the language.
+The string "0" is in the language.
+The string "+0" is in the language.
+The string "!b" is in the language.
+The string "a+0" is in the language.
+The string "a++b" is in the language.
+The string "a**b" is in the language.
+The string "(((a)))" is in the language.
+The string "(a+b)*c" is in the language.
+The string "((a+b)*(c+d))" is in the language.
+The string "a+" is not in the language.
+The string "a+b*c" is not in the language.
+The string "a+b*c^d" is not in the language.
+The string "(a+b)*(c+d))" is not in the language.
+The string "((a+b)*(c+d)" is not in the language.
+
